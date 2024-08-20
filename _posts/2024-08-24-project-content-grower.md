@@ -9,4 +9,4 @@ tags:
 
 Leveraged open source Llama 3.1 AI model to generate compelling captions and recommend impactful social media strategies for content creators.
 
-Drove a 5\% increase in account impressions through data-driven content optimizations, demonstrating strong analytical and problem-solving skills.
+Drove a 5% increase in account impressions through data-driven content optimizations, demonstrating strong analytical and problem-solving skills.
