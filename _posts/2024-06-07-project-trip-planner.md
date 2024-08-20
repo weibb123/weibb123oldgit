@@ -1,3 +1,12 @@
+---
+title: "AI Project Trip Planner"
+date: 2024-06-07
+categories:
+  - AI
+tags:
+  - Data Science
+---
+
 ## Context
 Over the summer break, many of my friends including me would love to travel. I was thinking if AI can help plan my next trip.
 
