@@ -3,6 +3,8 @@ permalink: /about/
 title: "About"
 ---
 
-Tempor velit sint sunt ipsum tempor enim ad qui ullamco. Est dolore anim ad velit duis dolore minim sunt aliquip amet commodo labore. Ut eu pariatur aute ea aute excepteur laborum. Esse ea esse excepteur minim mollit qui cillum excepteur ex dolore magna. Labore deserunt fugiat incididunt incididunt sint ea. Consequat dolore aute laboris quis proident quis non et est consectetur ex eiusmod sit culpa.
+Graduating with a degree in Data Science, I decided to pursue my passion for building software. Storing data and deploying ML Apps in Data Science lead me toward software design. As someone who has grit, I read many resources to learn software design. My favorite part of programming is the problem-solving aspect. I love the feeling of solving an ambiguous problem and embrace uncertainty.
 
-Cupidatat ea do et in excepteur in. Ad nostrud ut est esse eu duis ea sunt eiusmod. Aliquip tempor veniam sint elit fugiat. Velit incididunt laboris amet incididunt labore dolore irure velit excepteur commodo deserunt laborum. Consectetur eu fugiat veniam veniam Lorem labore magna eiusmod. Ea occaecat reprehenderit pariatur consectetur minim labore ut aliquip.
+When I'm not coding, I enjoy reading on latest tech advancement(Not feel like job), traveling, photographing and hiking.
+
+With a can do, can reason, can improve mindset at all time.
