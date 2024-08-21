@@ -1,6 +1,6 @@
 ---
 title: "Project AB Test On Website Design"
-date: 2024-05-08
+date: 2024-05-16
 categories:
   - Data Analytics
 tags:
