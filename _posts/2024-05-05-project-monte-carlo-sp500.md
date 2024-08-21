@@ -1,5 +1,5 @@
 ---
-title: "AI Project Content Grower"
+title: "Project Monte Carlo Risk Stock Assessment"
 date: 2024-08-06
 categories:
   - Data Analytic
