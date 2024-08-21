@@ -25,6 +25,8 @@ By quantifying the probability of various outcomes, we were able to optimize our
 
 The project not only enhanced our financial performance but also bolstered investor confidence by demonstrating a data-driven approach to risk management.
 
+![image](https://github.com/user-attachments/assets/22ecdbb3-b807-4523-9840-82224195c7d4)
+
 
 Analyze the result: 
 
