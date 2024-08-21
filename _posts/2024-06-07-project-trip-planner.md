@@ -7,6 +7,8 @@ tags:
   - Data Science
 ---
 
+![image](https://github.com/user-attachments/assets/4a7cbc8e-7d72-4215-ba9a-08c3b9481b39)
+
 ## Context
 Over the summer break, many of my friends including me would love to travel. I was thinking if AI can help plan my next trip.
 
@@ -15,8 +17,6 @@ seamless trip planning services for customers.
 
 I Automated 80% of trip planning tasks by strategically integrating cutting-edge AI agents, significantly reducing
 manual effort and streamlining the overall user experience.
-
-![image](https://github.com/user-attachments/assets/4a7cbc8e-7d72-4215-ba9a-08c3b9481b39)
 
 
 ## Metrics
