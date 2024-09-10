@@ -1,3 +1,12 @@
+---
+title: "Project NASDAQ_DATA_ENGINEERING"
+date: 2024-09-10
+categories:
+  - Data Analytics
+tags:
+  - Data Engineering
+---
+
 # NASDAQ_DATA_ENGINEERING
 ETL pipeline on one year of NASDAQ stock data with SNOWFLAKE
 FREE trial of Snowflake account.
