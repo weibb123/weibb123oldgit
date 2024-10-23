@@ -1,3 +1,12 @@
+---
+title: "Project Sentiment Analysis"
+date: 2022-12-17
+categories:
+  - Data Analytics
+tags:
+  - Data Science
+---
+
 ## Problem statement
 Understand video's performance based on comments of viewers
 
