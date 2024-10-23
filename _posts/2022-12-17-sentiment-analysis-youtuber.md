@@ -1,5 +1,5 @@
 ---
-title: "Project Sentiment Analysis"
+title: "Project Sentiment Analysis Of Youtube Videos Comment"
 date: 2022-12-17
 categories:
   - Data Analytics
@@ -7,7 +7,7 @@ tags:
   - Data Science
 ---
 
-More details on this repo: https://github.com/weibb123/Unsupervised_sentiment_analysis_on_Youtube/tree/main
+More details on this repo: [Github Repo](https://github.com/weibb123/Unsupervised_sentiment_analysis_on_Youtube/tree/main)
 
 
 ## Problem statement
