@@ -7,6 +7,9 @@ tags:
   - Data Science
 ---
 
+More details on this repo: https://github.com/weibb123/Unsupervised_sentiment_analysis_on_Youtube/tree/main
+
+
 ## Problem statement
 Understand video's performance based on comments of viewers
 
@@ -27,9 +30,6 @@ WordCloud For Analysis
 
 ![image](https://github.com/user-attachments/assets/0e172973-eb72-486a-bf05-9a09871eb707)
 ![image](https://github.com/user-attachments/assets/14d79af5-a0e8-4cd7-a739-cb19f64d850e)
-
-
-code to repo: https://github.com/weibb123/Unsupervised_sentiment_analysis_on_Youtube/tree/main
 
 
 
