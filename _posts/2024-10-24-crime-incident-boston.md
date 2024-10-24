@@ -21,4 +21,6 @@ This is the total number of crime cases throughout the year 2015-2024
 A screenshot of the interactive dashboard
 ![image](https://github.com/user-attachments/assets/c808a49d-78a3-4176-8f6f-74e31464e74c)
 
+A large number of numbers happen in Boston area such as certain part of Park Street, Backbay, Roxbury, and Dorchester.
+
 
